@@ -1,12 +1,7 @@
-## Hi there 👋
+## 👋 Hello, time traveler! Over time, you kept appearing here...
 
-<!--
+We remind you that we are a team that is passionately immersed in the development of various applications and development tools for Cardano. Why Cardano? We believe UTXO is the best blockchain model and eUTXO is even better.
 
-**Here are some ideas to get you started:**
+We are maintainers of the [CardanoWeb3js](https://github.com/xray-network/cardano-web3-js) library, and other [applications/tools](https://github.com/xray-network/projects-list-map). 
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We look forward to seeing you in our repositories, hopefully together we can make the world a little better! ✨
