@@ -1,6 +1,6 @@
 ## 👋 Hello, time traveler! Over time, you kept appearing here...
 
-We remind you that we are a team that is passionately immersed in the development of various applications and development tools for Cardano (and Bitcoin?). Why Cardano (and Bitcoin?)? We believe UTXO is the best blockchain model and eUTXO is even better.
+We remind you that we are a team that is passionately immersed in the development of various applications and development tools for Cardano (Bitcoin). Why Cardano (Bitcoin)? We believe UTXO is the best blockchain model and eUTXO is even better.
 
 We are maintainers of the [CardanoWeb3js](https://github.com/xray-network/cardano-web3-js) library, and other [applications/tools](https://github.com/xray-network/projects-map). 
 
